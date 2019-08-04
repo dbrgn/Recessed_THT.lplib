@@ -1,0 +1,10 @@
+(librepcb_package_category 36a912f2-3367-4ce2-9fa6-0db0e3f6a458
+ (name "Recessed THT")
+ (description "")
+ (keywords "")
+ (author "Jessy")
+ (version "0.1")
+ (created 2019-08-04T19:57:47Z)
+ (deprecated false)
+ (parent none)
+)

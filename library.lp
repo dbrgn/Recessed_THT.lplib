@@ -1,0 +1,11 @@
+(librepcb_library 7a5124ad-2d8c-435a-b8b0-77cc55acf1c6
+ (name "Recessed_THT")
+ (description "THT parts that are mounted recessed inside the PCB.")
+ (keywords "flush,recessed,tht")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-08-04T19:56:09Z)
+ (deprecated false)
+ (url "")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
